@@ -34,6 +34,5 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhishek Chauhan*
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhishek Chauhan**
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhishek Chauhan**
+**LinkedIn** Click [Here](https://www.linkedin.com/in/abhishek-chauhan-10b4991b8/) **@meAbhishek Chauhan**
+
