@@ -1,6 +1,6 @@
 # MERN E-COMMERCE Project
 
-Hi! My name is **Abhishek Chauhan**, I have created  MERN Stack Project.
+Hi My name is **Abhishek Chauhan**, I have created  MERN Stack Project.
 
 
 
